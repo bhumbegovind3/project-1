@@ -1,6 +1,5 @@
 # NESTED LIST#
 
-# govind change your code ##
 l1=[10,20,[10,'pune'],['mumbai,100']]
 
 print(l1[3]) #op= ['mumbai,100']
